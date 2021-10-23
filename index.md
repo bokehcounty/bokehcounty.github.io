@@ -1,4 +1,4 @@
-## Bokeh County
+Bokeh County
 
 Bokeh County is a new upcoming photography server.
 
